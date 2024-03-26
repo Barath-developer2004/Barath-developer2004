@@ -13,8 +13,6 @@
 </div>
 
 <br/>
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=barath-developer2004.visitor-badge.issue.1&title=Github%20Visitors)
 ![Github Followers](https://img.shields.io/github/followers/barath-developer2004?label=Github%20Connection&style=flat)
 
 <br/>
@@ -27,8 +25,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 goals: Make projects and contribute to Open Source
 - ⚡ Fun fact: I love to take photos and make videos
-- 🔭 I just launched my portfolio: *[https://yourportfolio.com](https://yourportfolio.com)*
-- 💼 See my experience over the years: *[Resume](https://yourresume.com)*
+- 🔭 I just launched my portfolio: *[https://yourportfolio.com](https://www.linkedin.com/in/barath-y-a79b26257/)*
 
   <br />
 
