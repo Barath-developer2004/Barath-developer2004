@@ -21,10 +21,10 @@
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 Currently learning Java programming 😎
+- 🌱 Currently learning DSA in java and PostgreSQL 😎
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 goals: Make projects and contribute to Open Source
-- ⚡ Fun fact: I love to take photos and make videos
+- 🥅 2024 Goals:Solve more problems and enhance my problem-solving skills to become a highly effective problem solver.
+- ⚡ Fun fact: I love playing games and exploring new places.
 - 🔭 I just launched my portfolio: *[https://yourportfolio.com](https://www.linkedin.com/in/barath-y-a79b26257/)*
 
   <br />
