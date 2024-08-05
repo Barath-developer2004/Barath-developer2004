@@ -1,5 +1,6 @@
-<!-- This Barath-developer2004's Repository is most important and valuable repository because its README.md (this file) appears as Github profile. -->
+<img src="https://komarev.com/ghpvc/?username=barath-developer2004&color=blue&style=plastic" width="150">
 
+<!-- This Barath-developer2004's Repository is most important and valuable repository because its README.md (this file) appears as Github profile. -->
 
 # Hi, Myself <a href="https://sanajitjana.github.io" target="_blank">Barath Y</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -15,8 +16,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=barath-developer2004&color=blue&style=plastic&label=Profile%20Views&count=1489" width="150">
- What I'm Focusing On 👨‍💻
+### What I'm Focusing On 👨‍💻
+
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 Currently learning DSA in Java and PostgreSQL 😎
@@ -58,3 +59,10 @@
 ![](./profile-3d-contrib/profile-season-animate.svg) 
 
 [https://portfolio-design-4eox.onrender.com](https://portfolio-design-4eox.onrender.com)
+
+<!-- Updated contributions graph -->
+<p align="center">
+  <a href="https://github.com/barath-developer2004/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=barath-developer2004&bg_color=000000&title_color=538cc6&line=00cc00&point=538cc6&theme=github-compact" alt="Barath's github activity graph" />
+  </a>
+</p>
