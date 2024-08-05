@@ -35,7 +35,7 @@
 
 <!-- language -->
 
-[![](https://skillicons.dev/icons?i=java,spring,,mysql,js,html,css)]()
+[![](https://skillicons.dev/icons?i=java,spring,mysql,js,html,css)]()
 
 <br/>
 
