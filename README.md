@@ -16,7 +16,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=barath-developer2004&color=blue&style=plastic&label=Profile%20Views&count=1489" width="150">
-### What I'm Focusing On 👨‍💻
+ What I'm Focusing On 👨‍💻
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 Currently learning DSA in Java and PostgreSQL 😎
