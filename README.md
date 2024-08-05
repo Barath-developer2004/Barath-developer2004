@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=barath-developer2004&color=blue&style=plastic" width="150">
+
 
 <!-- This Barath-developer2004's Repository is most important and valuable repository because its README.md (this file) appears as Github profile. -->
 
@@ -15,7 +15,7 @@
 </div>
 
 <br/>
-
+<img src="https://komarev.com/ghpvc/?username=barath-developer2004&color=blue&style=plastic" width="150">
 ### What I'm Focusing On 👨‍💻
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -35,13 +35,13 @@
 
 <!-- language -->
 
-[![](https://skillicons.dev/icons?i=java,spring,hibernate,php,mysql,js,html,css)]()
+[![](https://skillicons.dev/icons?i=java,spring,,mysql,js,html,css)]()
 
 <br/>
 
 ### Used Tools:
 
-[![](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,powershell)]()
+[![](https://skillicons.dev/icons?i=git,github,heroku,vscode,powershell)]()
 
 <br />
 
