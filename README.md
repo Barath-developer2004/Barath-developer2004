@@ -1,5 +1,6 @@
 <!-- This Barath-developer2004's Repository is most important and valuable repository because its README.md (this file) appears as Github profile. -->
 
+
 # Hi, Myself <a href="https://sanajitjana.github.io" target="_blank">Barath Y</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Full-Stack Web Developer, Designer, and Life-Long Learner!
@@ -13,7 +14,7 @@
 </div>
 
 <br/>
-
+<img src="https://komarev.com/ghpvc/?username=barath-developer2004&color=blue&style=plastic" width="150">
 ### What I'm Focusing On 👨‍💻
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
