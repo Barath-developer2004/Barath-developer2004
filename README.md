@@ -5,15 +5,15 @@
 ## I'm a Full-Stack Web Developer, Designer and Life-Long Learner!
 
 <div align="left">
-<a href="https://yourportfolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yourlinkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:youremail@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/yourleetcode"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/yourhackerrank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-32C766?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://portfolio-design-4eox.onrender.com"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/notifications/?filter=all"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/BTBVBVcv9F/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/barathsxqdg/"><img alt="GeekforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-32C766?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </div>
 
 <br/>
-![Github Followers](https://img.shields.io/github/followers/barath-developer2004?label=Github%20Connection&style=flat)
+
 
 <br/>
 
@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals:Solve more problems and enhance my problem-solving skills to become a highly effective problem solver.
 - ⚡ Fun fact: I love playing games and exploring new places.
-- 🔭 I just launched my portfolio: *[https://yourportfolio.com](https://www.linkedin.com/in/barath-y-a79b26257/)*
+- 🔭 I just launched my portfolio: *https://portfolio-design-4eox.onrender.com*
 
   <br />
 
