@@ -24,8 +24,9 @@
 ## 🚀 What I'm Focusing On:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400" alt="Launching Ideas">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer at work" />
 </p>
+
 
 
 
