@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 What I'm Focusing On:
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
 
 
 
@@ -32,9 +32,7 @@
 - ⚡ Fun fact: I enjoy gaming and exploring new places  
 - 🔭 Just launched my portfolio: [Visit Portfolio](https://my-portfolio-sigma-seven-78.vercel.app)
 
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation" />
-</p>
+
 ---
 
 ## 🛠️ Tech Stack
