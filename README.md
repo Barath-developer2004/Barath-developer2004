@@ -23,7 +23,10 @@
 
 ## 🚀 What I'm Focusing On:
 
-<img width="40%" align="right" alt="GitHub Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Focused Developer">
+</p>
+
 
 - 🌱 Currently learning DSA in Java and PostgreSQL  
 - 👯 Looking to collaborate with other developers  
