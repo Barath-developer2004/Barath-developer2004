@@ -24,8 +24,9 @@
 ## 🚀 What I'm Focusing On:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" alt="Focused Developer">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="400" alt="Launching Ideas">
 </p>
+
 
 
 - 🌱 Currently learning DSA in Java and PostgreSQL  
