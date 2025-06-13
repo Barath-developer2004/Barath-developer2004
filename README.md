@@ -1,9 +1,10 @@
 <!-- This Barath-developer2004's Repository is most important and valuable repository because its README.md (this file) appears as Github profile. -->
+
+# Hi, Myself <a href="https://my-portfolio-sigma-seven-78.vercel.app" target="_blank">Barath Y</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation">
 </p>
-
-# Hi, Myself <a href="https://my-portfolio-sigma-seven-78.vercel.app" target="_blank">Barath Y</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Full-Stack Web Developer, Designer, and Life-Long Learner!
 
