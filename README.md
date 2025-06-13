@@ -52,10 +52,13 @@
 
 ## 👨‍💻 GitHub Stats
 
+## 👨‍💻 GitHub Stats
+
 <p align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=barath-developer2004&show_icons=true&hide_border=true&theme=radical" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=barath-developer2004&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barath-developer2004&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=barath-developer2004&theme=github-dark&hide_border=true" />
 </p>
+
 
 ---
 
