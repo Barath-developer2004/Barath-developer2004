@@ -53,28 +53,29 @@
 
 
 
+...
+
 ## 👨‍💻 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barath-developer2004&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  
-  <!-- Top Languages Used -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barath-developer2004&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-## ⚡ 3D Contribution Graph
+## ⚡ 3D Contribution Snake
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@latest/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@latest/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </p>
-
 
 ## 🚀 Just for Fun!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Open+Source+Contributor;Life-Long+Learner;&font=Fira%20Code&center=true&width=440&height=45&color=00FFAB&vCenter=true&pause=1000&size=22" />
 </p>
+
+...
+
 
 
 ---
