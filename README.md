@@ -66,8 +66,9 @@
 ## ⚡ 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/barath-developer2004/barath-developer2004/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@latest/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
 
 ## 🚀 Just for Fun!
 
