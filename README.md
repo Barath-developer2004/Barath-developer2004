@@ -65,8 +65,9 @@
 ## ⚡ 3D Contribution Snake
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Platane/snk@latest/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+  <img src="https://github.com/Barath-developer2004/Barath-developer2004/assets/123456789/6b204f90-0e58-4d45-bbc0-6f5cbe6ae198" width="600" alt="Coding Workflow Animation">
 </p>
+
 
 ## 🚀 Just for Fun!
 
