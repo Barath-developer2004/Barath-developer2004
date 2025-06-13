@@ -24,8 +24,9 @@
 ## 🚀 What I'm Focusing On:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Light theme coding" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Funny developer coding" />
 </p>
+
 
 
 
