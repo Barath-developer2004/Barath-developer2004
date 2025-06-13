@@ -105,3 +105,34 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="100%" />
 
 ---
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Happy+coding+💻" alt="Thanks GIF" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200" alt="Coder Working">
+</p>
+
+<p align="center">
+  <b>✨ Let's connect and build cool stuff!</b>  
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/barath-y-a79b26257/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-sigma-seven-78.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@CodeCheckwithBarath" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white" />
+  </a>
+  <a href="mailto:barathydeveloper2004@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
